@@ -1,0 +1,49 @@
+{
+  "timeStamp": 1703608380512,
+  "version": "1.54.0",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "alwaysDetachLogger": false,
+    "cloudStorageEnabled": true,
+    "externalLists": "https://big.oisd.nl/\nhttps://easylist-downloads.adblockplus.org/bitblock.txt\nhttps://easylist-downloads.adblockplus.org/cntblock.txt",
+    "ignoreGenericCosmeticFilters": true,
+    "importedLists": [
+      "https://big.oisd.nl/",
+      "https://easylist-downloads.adblockplus.org/bitblock.txt",
+      "https://easylist-downloads.adblockplus.org/cntblock.txt"
+    ],
+    "popupPanelSections": 63,
+    "suspendUntilListsAreLoaded": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-quick-fixes",
+    "ublock-unbreak",
+    "easylist",
+    "fanboy-cookiemonster",
+    "ublock-annoyances",
+    "RUS-0",
+    "https://easylist-downloads.adblockplus.org/bitblock.txt",
+    "https://easylist-downloads.adblockplus.org/cntblock.txt"
+  ],
+  "hiddenSettings": {
+    "userResourcesLocation": "https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/video-swap-new/video-swap-new-ublock-origin.js"
+  },
+  "whitelist": [
+    "about-scheme",
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "edge-scheme",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "vivaldi-scheme",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "",
+  "userFilters": ""
+}
