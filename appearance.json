@@ -1,0 +1,10 @@
+{
+  "accentColor": "#2c7cde",
+  "baseFontSize": 17,
+  "theme": "system",
+  "enabledCssSnippets": [
+    "big-math",
+    "card-board-android"
+  ],
+  "baseFontSizeAction": false
+}
