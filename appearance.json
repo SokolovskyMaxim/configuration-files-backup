@@ -1,0 +1,12 @@
+{
+  "accentColor": "#487cf4",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "big-math",
+    "card-board-windows"
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "cssTheme": "",
+  "translucency": false
+}

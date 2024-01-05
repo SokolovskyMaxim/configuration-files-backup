@@ -1,0 +1,32 @@
+{
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "hidden",
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "MIL",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "FLI",
+  "spellcheck": false,
+  "readableLineLength": true,
+  "trashOption": "local",
+  "foldHeading": false,
+  "foldIndent": true,
+  "userIgnoreFilters": [
+    "DIS/Lyrics/",
+    "FLI/",
+    "MIL/",
+    "DES/",
+    "GSOAL/gsoal/reports/",
+    "GSOAL/gsoal/databases/",
+    "LIT/"
+  ]
+}
