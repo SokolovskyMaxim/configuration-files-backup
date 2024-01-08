@@ -18,7 +18,7 @@
   "spellcheck": false,
   "readableLineLength": true,
   "trashOption": "local",
-  "foldHeading": false,
+  "foldHeading": true,
   "foldIndent": true,
   "userIgnoreFilters": [
     "DIS/Lyrics/",
@@ -27,6 +27,7 @@
     "DES/",
     "GSOAL/gsoal/reports/",
     "GSOAL/gsoal/databases/",
-    "LIT/"
+    "LIT/",
+    "GSOAL/"
   ]
 }
