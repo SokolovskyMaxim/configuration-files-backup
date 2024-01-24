@@ -18,8 +18,8 @@
   "spellcheck": false,
   "readableLineLength": true,
   "trashOption": "local",
-  "foldHeading": true,
-  "foldIndent": true,
+  "foldHeading": false,
+  "foldIndent": false,
   "userIgnoreFilters": [
     "DIS/Lyrics/",
     "FLI/",
