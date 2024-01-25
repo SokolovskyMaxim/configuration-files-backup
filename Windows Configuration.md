@@ -44,7 +44,3 @@ iwr -useb https://git.io/debloat|iex
 [powersettings](https://www.mediafire.com/file/ksr24q4zjb3y3tl/powersettings.reg/file)
 [powerthrottling](https://www.mediafire.com/file/w8mzlgfjl97kmah/powerthrottling.reg/file)
 
-#### Configuring the registry
-
-[powersettings](https://www.mediafire.com/file/ksr24q4zjb3y3tl/powersettings.reg/file)
-[powerthrottling](https://www.mediafire.com/file/w8mzlgfjl97kmah/powerthrottling.reg/file)
