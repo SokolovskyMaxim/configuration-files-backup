@@ -2,10 +2,6 @@
 
 > [!warning] ANOTHER ED IS REQUIRED
 
-## Introduced Terms
-
-WNCNF (WiNdows CoNFiguration)
-
 ## Quick Start 
 
 ### Initial preparation
