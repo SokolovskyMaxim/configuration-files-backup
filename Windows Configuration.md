@@ -1,6 +1,6 @@
 # WNCNF
 
-> [! warning] ANOTHER ED IS REQUIRED
+> [!warning] ANOTHER ED IS REQUIRED
 
 ## Introduced Terms
 
