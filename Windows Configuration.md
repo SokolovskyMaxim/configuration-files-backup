@@ -32,6 +32,7 @@ iwr -useb https://git.io/debloat|iex
 > - [ ] [XToolBox](https://github.com/xemulat/XToolbox/releases/latest)
 > - [ ] Enable Bitlocker
 > - [ ] Create DPTN0 FSTC
+> - [ ] Disable Windows Defender
 > - [ ] Update Windows
 > - [ ] Update applications by using Microsoft Store
 
@@ -49,14 +50,22 @@ iwr -useb https://git.io/debloat|iex
 ### Applications configuring
 
 > [!note] checklist
-> - [ ] VeraCrypt
-> - [ ] SyncTrazor
-> - [ ] Obsidian
-> - [ ] Telegram
+> - [ ] PS-I-V
+> - [ ] PS-S
+> - [ ] PS-O
+> - [ ] PS-T
 > - [ ] Espanso [base](https://github.com/SokolovskyMaxim/backup-configuration-files/blob/main/espanso)
-> - [ ] Microsoft Powertoys 
+> - [ ] PS-M-PT
 
 ### Configuring the registry
 
 [powersettings](https://www.mediafire.com/file/ksr24q4zjb3y3tl/powersettings.reg/file)
 [powerthrottling](https://www.mediafire.com/file/w8mzlgfjl97kmah/powerthrottling.reg/file)
+
+## Resource-intensive setup  
+
+```
+wsl --install -d openSUSE-Leap-15.5
+```
+
+- [VSC](https://apps.microsoft.com/detail/xp9khm4bk9fz7q) [msys2](https://www.msys2.org/)
