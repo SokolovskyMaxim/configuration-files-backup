@@ -45,3 +45,18 @@ iwr -useb https://git.io/debloat|iex
 | [Obsidian](https://obsidian.md/download)                      | [Rnote](https://github.com/flxzt/rnote/)                                                                       |                                                                     | [Hone](https://www.mediafire.com/file/xdwb4zutkgd31tq/Hone.zip/file) |
 | [Okular](https://apps.microsoft.com/detail/9n41msq1wnm8)      |                                                                                                                |                                                                     |                                                                      |
 | [Xodo](https://apps.microsoft.com/detail/9wzdncrdjxp4)        |                                                                                                                |                                                                     |                                                                      |
+
+### Applications configuring
+
+> [!note] checklist
+> - [ ] VeraCrypt
+> - [ ] SyncTrazor
+> - [ ] Obsidian
+> - [ ] Telegram
+> - [ ] Espanso [base](https://github.com/SokolovskyMaxim/backup-configuration-files/blob/main/espanso)
+> - [ ] Microsoft Powertoys 
+
+### Configuring the registry
+
+[powersettings](https://www.mediafire.com/file/ksr24q4zjb3y3tl/powersettings.reg/file)
+[powerthrottling](https://www.mediafire.com/file/w8mzlgfjl97kmah/powerthrottling.reg/file)
