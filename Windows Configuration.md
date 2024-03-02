@@ -25,7 +25,9 @@ slmgr /ato
 ```
 iwr -useb https://git.io/debloat|iex
 ```
-
+```
+Get-AppxPackage -AllUsers | Where-Object {$_.Name -like "*WebExperience*"} | Remove-AppxPackage -AllUsers -ErrorAction SilentlyContinue
+```
 > [!todo]
 > - [ ] Enable Restore Points
 > - [ ] [ShutUp10++](https://www.oo-software.com/en/shutup10)
