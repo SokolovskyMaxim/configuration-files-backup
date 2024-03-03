@@ -1,5 +1,7 @@
 # OS-W-CNF
 
+[[D1DEA#Decryption]]
+
 >[!warning] ANOTHER ED IS REQUIRED
 
 ## Algorithm
