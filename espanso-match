@@ -11,12 +11,15 @@ matches:
   # Simple text replacement
   - trigger: ":espanso"
     replace: "Hi there!"
-  - trigger: "-- "
-    replace: "— "
+  - trigger: " -- "
+    replace: " — "
   - trigger: ";-0"
     replace: "• "
   - trigger: "ж-0"
     replace: "• "
+  - trigger: ";rar"
+    replace: "→"
+
 
   # NOTE: espanso uses YAML to define matches, so pay attention to the indentation!
 
