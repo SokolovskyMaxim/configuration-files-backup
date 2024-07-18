@@ -44,6 +44,7 @@ Get-AppxPackage -AllUsers | Where-Object {$_.Name -like "*WebExperience*"} | Rem
 - [ ] Enable Restore Points
 - [ ] [ShutUp10++](https://www.oo-software.com/en/shutup10)
 - [ ] [App Buster](https://www.oo-software.com/en/ooappbuster)
+- [ ] [Bloatynosy](https://github.com/builtbybel/Winpilot/releases/tag/1.5.0)
 - [ ] Disable Windows Defender (gpedit)
 - [ ] Update Windows
 - [ ] Enable Bitlocker
